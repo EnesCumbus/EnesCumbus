@@ -1,4 +1,4 @@
-[![MasterHead](https://weebgroup.com/1/images/-86f17854f6424ddaa73d736fdfce3afb.png)
+![MasterHead](https://weebgroup.com/1/images/-86f17854f6424ddaa73d736fdfce3afb.png)
 <h1 align="center">Hi 👋, I'm Enes Cümbüş</h1>
 <h3 align="center">A passionate Mobile and Backend developer from Turkey</h3>
 
